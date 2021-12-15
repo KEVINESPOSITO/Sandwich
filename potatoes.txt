@@ -4,3 +4,4 @@ samourais
 barbecue
 moutarde
 light
+blanche
